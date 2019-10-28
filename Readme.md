@@ -1,4 +1,4 @@
-# Onboarding animation
+# Onboarding Animation
 
 >Criação de telas informativas com animação para primeiro acesso em um app.
 
